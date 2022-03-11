@@ -1,4 +1,4 @@
-with open('.opt/test/test.txt','r') as f:
+with open('./test.txt','r') as f:
     text = f.read()
 print(text)
 count = 0
